@@ -69,9 +69,9 @@ const skills = {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ An amateur and currently learning about python",
-        "⚡ Learning more about algorithms",
-        "⚡ Future data scientist???",
+        "⚡ Basic understanding of Python",
+        "⚡ Basic understanding of machine learning algorithms",
+        "⚡ Basic understanding of how AI works",
       ],
       softwareSkills: [
         {
@@ -88,9 +88,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Learning more about the front-end",
-        "⚡ Learning more about the back-end",
-        "⚡ Currently using express and node for the back-end",
+        "⚡ Basic understanding of HTML, CSS, and Javascript",
+        "⚡ Little knowledge about Express, Node, and Websocket",
+        "⚡ Learning more about React and other frameworks",
       ],
       softwareSkills: [
         {
@@ -139,13 +139,11 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
-      fileName: "CloudInfraImg",
+      title: "Databases",
+      fileName: "Databases",
       skills: [
-        "⚡ Not experience working on multiple cloud platforms",
-        "⚡ Not hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Not deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Not setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Knowledge about sql and nosql database",
+        "⚡ Minor understanding of Mongodb",
       ],
       softwareSkills: [
         {
@@ -161,9 +159,8 @@ const skills = {
       title: "UI/UX Design",
       fileName: "DesignImg",
       skills: [
-        "⚡ Willing to learn",
-        "⚡ Can get inspirations fast",
-        "⚡ Trying art sometimes",
+        "⚡ Basic understanding of UI/UX design",
+        "⚡ Basic understanding of Figma",
       ],
       softwareSkills: [
         {
@@ -202,7 +199,7 @@ const degrees = {
       duration: "2024 - ",
       descriptions: [
         "⚡ I have studied the basics of HTML, Java, Javascript, CSS, Python, and PHP ",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
+        "⚡ Apart from this, I have done courses on Java, Data Science, and Full Stack Development.",
         "⚡ I am currently studying, 2nd Year.",
       ],
       website_link: "https://westerninstituteoftechnology.com/",
@@ -227,14 +224,13 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Machine Learning Engineer",
-          company: "TikTok Inc.",
-          company_url: "https://www.tiktok.com/en/",
-          logo_path: "tiktok_logo.png",
-          duration: "June 2023 - Present",
-          location: "San Jose, CA, USA",
-          description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+          title: "",
+          company: "",
+          company_url: "",
+          logo_path: "unemployment.png  ",
+          duration: "",
+          location: "",
+          description: "",
           color: "#000000",
         },
       ],
@@ -293,20 +289,21 @@ const contactPageData = {
   },
   blogSection: {
     title: "Blogs",
-    subtitle: "The blogs of the person where I forked this from.",
+    subtitle: "Ashutosh1919's blogs, credit",
     link: "https://blogs.ashutoshhathidara.com/",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle: "The guy's address, Saratoga Ave, San Jose, CA, USA 95129",
-    locality: "San Jose",
-    country: "USA",
-    region: "California",
-    postalCode: "95129",
-    streetAddress: "Saratoga Avenue",
+    subtitle: "My address",
+    locality: "Leganes",
+    country: "Philippines",
+    region: "Panay",
+    postalCode: "",
+    streetAddress: "Guinobatan",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
+    location_map_link:
+      "https://www.google.com/maps/@10.7829794,122.6012369,15z?entry=ttu&g_ep=EgoyMDI1MDMyNS4xIKXMDSoASAFQAw%3D%3D",
   },
   phoneSection: {
     title: "",
